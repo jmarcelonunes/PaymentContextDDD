@@ -1,0 +1,12 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/PaymentContext.Domain/bin/Debug/netcoreapp3.1
+/PaymentContext.Domain/obj/Debug/netcoreapp3.1
+/PaymentContext.Domain/obj
+/PaymentContext.Tests/bin/Debug/netcoreapp3.1
+/PaymentContext.Tests/obj
+/PaymentContext.Shared/bin/Debug/netcoreapp3.1
+/PaymentContext.Shared/obj
