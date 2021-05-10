@@ -15,6 +15,7 @@ namespace PaymentContext.Domain.Entities
             LastUpdateTime = DateTime.Now;
             ExpireDate = expireDate;
             _payments = new List<Payment>();
+            Active = true;
         }
 
         public DateTime CreateDate { get; private set; }
